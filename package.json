@@ -1,0 +1,21 @@
+{
+  "name": "gryphon-code-dark",
+  "displayName": "Gryphon Code Dark",
+  "description": "Gryphon Code Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gryphon Code Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gryphon Code Dark-color-theme.json"
+      }
+    ]
+  }
+}
